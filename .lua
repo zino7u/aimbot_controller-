@@ -4,8 +4,9 @@ local UserInputService = game:GetService("UserInputService")
 
 local player = Players.LocalPlayer
 local camera = game.Workspace.CurrentCamera
-
--- GUI erstellen
+-- hold L2 to aim on the nearest person
+-- made by ZxAqer follow my 2t acc for more nice t00ls and much more 🤙🏼
+-- lilte help by chatgpt bc i forgot a word for code😔 
 local ScreenGui = Instance.new("ScreenGui")
 local ToggleButton = Instance.new("TextButton")
 local TargetBox = Instance.new("Frame")
